@@ -2,6 +2,7 @@
 
 Plataforma voto electrónico educativa
 =====================================
+Cambio para el pull request
 
 UN CAMBIO 
 electrónico seguro, que cumpla una serie de garantías básicas, como la
