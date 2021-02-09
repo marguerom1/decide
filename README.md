@@ -3,8 +3,9 @@
 Plataforma voto electrónico educativa
 =====================================
 
-UN CAMBIO 
-electrónico seguro, que cumpla una serie de garantías básicas, como la
+Cambio en master para el merge
+ 
+Jum electrónico seguro, que cumpla una serie de garantías básicas, como la
 anonimicidad y el secreto del voto.
 
 Se trata de un proyecto educativo, pensado para el estudio de sistemas de
