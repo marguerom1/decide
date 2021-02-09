@@ -4,9 +4,9 @@ Plataforma voto electrónico educativa
 =====================================
 Cambio para el pull request
 
-Un cambio en la rama change
+Un cambio en la rama change y en master para el merge
  
-electrónico seguro, que cumpla una serie de garantías básicas, como la
+Jum electrónico seguro, que cumpla una serie de garantías básicas, como la
 anonimicidad y el secreto del voto.
 
 Se trata de un proyecto educativo, pensado para el estudio de sistemas de
