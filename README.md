@@ -4,7 +4,8 @@ Plataforma voto electrónico educativa
 =====================================
 Cambio para el pull request
 
-UN CAMBIO 
+Un cambio en la rama change
+ 
 electrónico seguro, que cumpla una serie de garantías básicas, como la
 anonimicidad y el secreto del voto.
 
