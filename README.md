@@ -2,8 +2,9 @@
 
 Plataforma voto electrónico educativa
 =====================================
+Cambio para el pull request
 
-Cambio en master para el merge
+Un cambio en la rama change y en master para el merge
  
 Jum electrónico seguro, que cumpla una serie de garantías básicas, como la
 anonimicidad y el secreto del voto.
